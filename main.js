@@ -99,7 +99,6 @@ const dinos = [{
   type: "Acrocanthosaurus"
 }];
 
-
 const myInfo = {
   id: 2,
   name: "Richard Rex",
