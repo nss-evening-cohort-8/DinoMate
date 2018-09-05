@@ -1,3 +1,25 @@
+body {
+  background-color: slategrey;
+}
+
 .about-us-header {
   text-align: center;
+}
+
+.navigation {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.list__navigation {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  list-style: none;
+}
+
+.list__navigation li {
+  padding: 15px;
 }
